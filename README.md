@@ -1,6 +1,6 @@
 # Custom-Browser-Engin
 
-A web browser built from scratch in Python — no `requests`, no `urllib`, no browser engines. Everything from DNS resolution to HTML rendering is implemented manually using raw sockets.
+A web browser built from scratch in Python — no library like `requests`, `urllib`, and browser engines. Everything from DNS resolution to HTML rendering is implemented manually using raw sockets.
 
 ---
 
